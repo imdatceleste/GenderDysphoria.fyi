@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Wie sich Gender Dysphorie äußert: Körperliche Dysphorie"
+title: "Wie sich Gender-Dysphorie äussert: Körperliche Dysphorie"
 linkTitle: "Körperliche Dysphorie"
 description: "Körperliche Unzufriedenheit ist nur eine von vielen Formen der Geschlechtsdysphorie."
 preBody: '_disclaimer'
@@ -22,7 +22,7 @@ tweets:
 
 # Körperliche Gender Dysphorie
 
-Jeder hat von der Geschichte vom „im falschen Körper geboren“ gehört. Körperliche Dysphorie ist ein Unbehagen über die Form des eigenen Körpers aufgrund der Geschlechtsmerkmale, die er aufweist. Über welche Körpermerkmale sprechen wir hier?
+Jeder Mensch hat von der Geschichte vom „im falschen Körper geboren“ gehört. Körperliche Dysphorie ist ein Unbehagen mit der Form des eigenen Körpers aufgrund der Geschlechtsmerkmale, die er aufweist. Über welche Körpermerkmale sprechen wir hier?
 
 {!{
 <style>
@@ -51,7 +51,7 @@ Jeder hat von der Geschichte vom „im falschen Körper geboren“ gehört. Kör
 
 Die wichtigsten Fortpflanzungsmerkmale, die sich während der Schwangerschaft entwickeln
 
-- Gonaden
+- Geschlechtsorgane (Gonaden)
   - Hoden
   - Eierstöcke
 - Externe Genitalien
@@ -61,7 +61,7 @@ Die wichtigsten Fortpflanzungsmerkmale, die sich während der Schwangerschaft en
   - Schamlippen
   - Vulva
 - Interne Fortpflanzungsorgane
-  - Prostata/Sekret Drüse
+  - Prostata/Sekretdrüse
   - Uterus
 
 
@@ -95,26 +95,26 @@ Alle sexuell dimorphen Merkmale, die sich während und nach der Pubertät infolg
 
 {!{ </div></div> }!}
 
-Die Primären Geschlechtsmerkmale können nur durch chirurgische Eingriffe verändert werden. Einige sekundäre sexuelle Merkmale sind auch Einbahnstraßen und erfordern einen medizinischen Eingriff, etwa um das Wachstum des Brustgewebes oder die Vertiefung der Stimmbänder rückgängig zu machen. Östrogen macht die Stimme nicht weiblicher, Testosteron lässt die Brüste nicht schrumpfen (abgesehen vom Fettabbau). Veränderungen der Skelettstruktur (wie die Vergrößerung durch Testosteron oder die Erweiterung der Hüften durch Östrogen) können nur vor dem 25. Lebensjahr auftreten, während der Körper noch wächst.
+Die primären Geschlechtsmerkmale können nur durch chirurgische Eingriffe verändert werden. Einige sekundäre sexuelle Merkmale sind auch Einbahnstrassen und erfordern einen medizinischen Eingriff, etwa um das Wachstum des Brustgewebes oder die Vertiefung der Stimmbänder rückgängig zu machen. Östrogen macht die Stimme nicht weiblicher, Testosteron lässt die Brüste nicht schrumpfen (abgesehen vom Fettabbau). Veränderungen der Skelettstruktur (wie die Vergrößerung durch Testosteron oder die Erweiterung der Hüften durch Östrogen) können nur vor dem 25. Lebensjahr auftreten, während der Körper noch wächst.
 
 Einige sekundäre Merkmale können chirurgisch verbessert werden (Brustvergrößerung, Körperkonturierung, Maskulinisierung / Feminisierung des Gesichts), andere können überhaupt nicht verändert werden.
 
-Körperliche Dysphorie manifestiert sich auf verschiedene Weise. Manchmal ist dies in einer Art „Phantom-Extremität“-Phänomen zu spüren: Wenn eine Person Empfindungen von einem Penis oder einer Vagina spüren kann, welche nicht vorhanden ist. Oder einen Gebärmutter Schmerz empfindet, die nicht vorhanden ist. Oder ein Gefühl des Fehlens von Brüsten, die nicht gewachsen sind.
+Körperliche Dysphorie manifestiert sich auf verschiedene Weise. Manchmal ist dies in einer Art „Phantom-Extremität“-Phänomen zu spüren: wenn eine Person Empfindungen von einem Penis oder einer Vagina spüren kann, welche nicht vorhanden ist; oder Gebärmutter-Schmerzen, owohl keine vorhanden ist; oder ein Gefühl des Fehlens von Brüsten, die nicht gewachsen sind.
 
 Auch umgekehrt kann es der Fall sein: Es kann als eine Art umgekehrter Phantomeffekt empfunden werden, bei dem sich die Person ständig etwas bewusst ist, das nicht vorhanden sein sollte. Das Gehirn erhält sensorische Impulse, die es nicht erwartet, wie z. B. das Gewicht der Brüste oder das Vorhandensein von Hoden oder einer Gebärmutter. Diese sensorischen Impulse drängen sich in den Vordergrund, da sie nicht erwartet werden.
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>AFAB</strong>: <em>assigned female at birth</em> – dem weiblichen Geschlecht bei der Geburt zugeordnet
+  <strong>AFAB</strong>: <em>assigned female at birth</em> – bei der Geburt dem weiblichen Geschlecht zugeordnet
   <br>
-  <strong>AMAB</strong>: <em>assigned male at birth</em> – dem männlichen Geschlecht bei der Geburt zugeordnet
+  <strong>AMAB</strong>: <em>assigned male at birth</em> – bei der Geburt dem männlichen Geschlecht zugeordnet
 </blockquote>
 {{import '~/tweet' ids=[
   '1220143004821938176'
 ] tweets=meta.tweets className="hide-reply" }}</div>
 }!}
 
-Es kann Entsetzen oder Abscheu empfunden werden, wenn man die äußeren Genitalien betrachtet oder berührt. Auch können emotionale Ausbrüche ausgelöst werden, verbunden mit dem starken Wunsch, die betroffenen Organe zu entfernen. AFAB-Transgender können während der Menstruation ein Gefühl der Unrichtigkeit oder ein Gefühl der fremdartigen Trennung von ihrem Hormonkreislauf verspüren.
+Es kann Entsetzen oder Abscheu empfunden werden, wenn die äußeren Genitalien betrachtet oder berührt werden. Auch können emotionale Ausbrüche ausgelöst werden, verbunden mit dem starken Wunsch, die betroffenen Organe zu entfernen. AFAB-Transgender können während der Menstruation ein Gefühl der Unrichtigkeit oder ein Gefühl der Fremdartigkeit in Bezug auf ihre Periode fühlen.
 
 Körperliche Dysphorie kann sich als Zwang manifestieren, bestimmte Körpermerkmale durch zum Beispiel obsessives Rasieren von Körper- oder Gesichtshaaren, zu verändern. Es kann sich auch in einem entgegengesetzten Zwang manifestieren: einer sorgfältigen Pflege dieser Merkmale, um zu versuchen, sie zu kontrollieren. Ein Beispiel wäre einen perfekten Bart zu pflegen, die Nägel dauerhaft gepflegt und poliert zu halten oder Stunden im Fitnessstudio zu verbringen, um die Körperform anzupassen.
 
