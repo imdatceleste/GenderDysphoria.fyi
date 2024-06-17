@@ -27,9 +27,9 @@ tweets:
 </div>
 }!}
 
-Wenn Sie das Wort Gender auf die lateinischen Wurzeln zurückführen, bedeutet Gender einfach nur „Typ“. Der normannisch-französische Begriff „Gendre“ wurde im 12. Jahrhundert verwendet um „die Männlichkeit oder Weiblichkeit“ zu beschreiben. 
+Die lateinische Wurzel des Worts "Gender" bedeutet einfach nur „Typ“. Der normannisch-französische Begriff „Gendre“ wurde im 12. Jahrhundert verwendet um „die Männlichkeit oder Weiblichkeit“ zu beschreiben. 
 
-Viele Leute schreiben den Begriff dem Psychologen John Money zu, der 1955 vorschlug, „Gender“ zu verwenden, um die Geschlechtsidentität von körperlichen Geschlechtsmerkmalen zu unterscheiden. Money war jedoch nicht der erste der dies tat. Die Kulturanthropologin [Margaret Mead](https://de.wikipedia.org/wiki/Margaret_Mead) verwendete den Begriff 1949 in ihrem Buch „Male and Female“ um geschlechtsspezifische Verhaltensweisen und Rollen vom biologischen Geschlecht zu unterscheiden. Das American Journal of Psychology ([Bd. 63, Nr. 2, 1950, S. 312](https://www.jstor.org/stable/1418948)) beschrieb das Buch folgendermaßen:
+Viele Leute schreiben den Begriff dem Psychologen John Money zu, der 1955 vorschlug, „Gender“ zu verwenden, um die Geschlechtsidentität von körperlichen Geschlechtsmerkmalen zu unterscheiden. Money war jedoch nicht der Erste, der dies tat. Die Kulturanthropologin [Margaret Mead](https://de.wikipedia.org/wiki/Margaret_Mead) verwendete den Begriff 1949 in ihrem Buch „Male and Female“ um geschlechtsspezifische Verhaltensweisen und Rollen vom biologischen Geschlecht zu unterscheiden. Das American Journal of Psychology ([Bd. 63, Nr. 2, 1950, S. 312](https://www.jstor.org/stable/1418948)) beschrieb das Buch folgendermaßen:
 
 > … ein Buch, das über seinen Vordersatz hinaus geht, denn es informiert den Leser über **„Gender“ sowie über „Geschlecht“**, über männliche und weibliche Rollen, sowie über Männer und Frauen und ihre Fortpflanzungsfunktionen.
 >
@@ -50,18 +50,18 @@ Das menschliche Geschlecht wird in drei Kategorien unterteilt:
 - **[Phänotyp](https://de.wikipedia.org/wiki/Ph%C3%A4notyp)**: Die beobachtbaren primären und sekundären Geschlechtsmerkmale (Genitalien, Fett- und Muskelverteilung, Knochenstruktur usw.)
 - **[Gender](https://de.wikipedia.org/wiki/Gender)**: Das interne mentale Modell des eigenen Geschlechts einer Person.
 
-Jeder dieser drei Aspekte kann in einen weitläufigen Wertebereich fallen. Im Biologieunterricht der Sekundarstufe wurde Ihnen wahrscheinlich beigebracht, dass der Genotyp binär ist, entweder weiblich (XX) oder männlich (XY) auch wenn es in der Realität dutzende anderer Permutationen gibt, die beim Menschen auftreten können.
+Jeder dieser drei Aspekte kann in einen weitläufigen Wertebereich fallen. Im Biologieunterricht der Sekundarstufe wurde Dir wahrscheinlich beigebracht, dass der Genotyp binär ist, entweder weiblich (XX) oder männlich (XY) - auch wenn es in der Realität dutzende anderer Permutationen gibt, die beim Menschen auftreten können.
 
 {!{ {{import '~/img' images.bimodal className="card borderless center span34 print-right print-span3"}} }!}
 
-Ebenso glauben viele Menschen, dass der Phänotyp auch binär ist, aber die Evolution zeigt seit Jahrhunderten das die sexuellen Merkmale einer Population sich nach einem bimodalen Modell (siehe Grafik) verteilt, bei der die Mehrheit der Bevölkerung innerhalb eines Perzentils von zwei Gruppen liegt. Die meisten Personen haben eindeutig männliche bzw. weibliche Merkmale; dies bedeutet aber auch, dass manche Menschen einfach von Natur aus außerhalb der typischen zwei Hauptgruppen liegen. Bei manchen Menschen fallen die Merkmale in die Mitte: mit Merkmalen beider Geschlechter.
+Ebenso glauben viele Menschen, dass der Phänotyp auch binär ist, aber die Evolution zeigt seit Jahrhunderten, dass die sexuellen Merkmale einer Population sich nach einem bimodalen Modell (siehe Grafik) verteilt, bei der die Mehrheit der Bevölkerung innerhalb eines Perzentils von zwei Gruppen liegt. Die meisten Personen haben eindeutig männliche bzw. weibliche Merkmale; dies bedeutet aber auch, dass manche Menschen einfach von Natur aus außerhalb der typischen zwei Hauptgruppen liegen. Bei manchen Menschen fallen die Merkmale in die Mitte: mit Merkmalen beider Geschlechter.
 
-Gender ist jedoch viel… abstrakter. Es gibt viele verschiedene Arten wie Menschen versucht haben das Geschlechtsspektrum zu veranschaulichen, aber bisher ist es noch auf keine Art ganzheitlich gelungen, da das Spektrum selbst ein sehr abstraktes Konzept ist.
+Gender ist jedoch viel… abstrakter. Es gibt viele verschiedene Arten wie Menschen versucht haben, das Geschlechtsspektrum zu veranschaulichen, aber bisher ist es noch auf keine Art ganzheitlich gelungen, da das Spektrum selbst ein sehr abstraktes Konzept ist.
 
 {!{
 <div class="">
   <div class="card">
-    <div class="card-header"><strong>Einige Methoden die Versuchen Gender zu beschreiben:</strong></div>
+    <div class="card-header"><strong>Einige Methoden, die Versuchen Gender zu beschreiben:</strong></div>
     <div class="card-body flex flex-row">
       {{import '~/img' images.spectrum }}
       {{import '~/img' images.graph }}
@@ -76,13 +76,13 @@ Gender ist jedoch viel… abstrakter. Es gibt viele verschiedene Arten wie Mensc
 </div>
 }!}
 
-In kurz: Einige Personen sind sehr männlich, einige Personen sind sehr weiblich, einige Personen fühlen überhaupt kein Geschlecht zugehörig, einige Personen fühlen sich beiden Geschlechtern zugehörig, einige Personen befinden sich zwischen den Geschlechtern und einige Personen fühlen sich an den Rändern. Manche Menschen schwingen auf unvorhersehbare Weise über das gesamte Spektrum und verändern sich wie der Wind. Nur eine Person selbst kann ihr eigenes Gender identifizieren, niemand anderes kann es ihr vorschreiben.
+Kurz: Einige Personen sind sehr männlich, einige Personen sind sehr weiblich, einige Personen fühlen sich überhaupt keinem Geschlecht zugehörig, einige Personen fühlen sich beiden Geschlechtern zugehörig, einige Personen befinden sich zwischen den Geschlechtern und wiederum andere Personen fühlen sich an den Rändern. Manche Menschen schwingen auf unvorhersehbare Weise über das gesamte Spektrum und verändern sich wie der Wind. Nur eine Person selbst kann ihr eigenes Gender identifizieren, niemand anderes kann es ihr vorschreiben.
 
 Gender ist *teils* soziales Konstrukt, *teils* erlerntes Verhalten und teils biologische Prozesse, die sich in sehr frühen Lebensphasen eines Menschen bilden.
 
-Die vorliegenden Erkenntnisse scheinen darauf hinzudeuten, dass das Geschlecht (im Sinne von Gender) einer Person während der Schwangerschaft festgelegt wird, während sich die Großhirnrinde des Gehirns bildet (mehr dazu im Abschnitt [Ursachen der geschlechtsspezifischen Dysphorie](/de/ursachen)). Durch diese Festlegung wird dann auf unbewusster Ebene darüber informiert, zu welchen Aspekten des Geschlechtsspektrums eine Person neigen wird. Es wird das Verhalten beeinflussen, die Wahrnehmung der Welt, die Art und Weise, wie wir Anziehung erfahren (getrennt von sexueller Orientierung und hormonellen Einflüssen) und wie wir mit anderen Menschen Bindungen eingehen.
+Die vorliegenden Erkenntnisse scheinen darauf hinzudeuten, dass das Geschlecht (im Sinne von Gender) einer Person während der Schwangerschaft festgelegt wird, während sich die Grosshirnrinde des Gehirns bildet (mehr dazu im Abschnitt [Ursachen der geschlechtsspezifischen Dysphorie](/de/ursachen)). Durch diese Festlegung wird dann auf unbewusster Ebene darüber informiert, zu welchen Aspekten des Geschlechtsspektrums eine Person neigen wird; es beeinflusst das Verhalten, die Wahrnehmung der Welt, die Art und Weise, wie wir Anziehung erfahren (getrennt von sexueller Orientierung und hormonellen Einflüssen) und wie wir mit anderen Menschen Bindungen eingehen.
 
-Gender beeinflusst auch die Erwartungen, die das Gehirn an die Umgebung hat, in der Sie sich befinden. Wenn diese Umgebung die Erwartungen nicht erfüllt, sendet das Gehirn Warnsignale in Form von Depressionen, Depersonalisierung, Derealisierung und Dissoziation. Dies sind die unbewussten Methoden des Gehirns, um uns darüber zu informieren, dass etwas nicht stimmt.
+Gender beeinflusst auch die Erwartungen, die das Gehirn an die Umgebung hat, in der sich ein Mensch befindet. Wenn diese Umgebung die Erwartungen nicht erfüllt, sendet das Gehirn Warnsignale in Form von Depressionen, Depersonalisierung, Derealisierung und Dissoziation. Dies sind die unbewussten Methoden des Gehirns, um uns darüber zu informieren, dass etwas nicht stimmt.
 
 {!{
 <div class="gutter"><blockquote>
@@ -102,9 +102,9 @@ Auf der sozialen Seite beinhaltet Gender unseren [Habitus](https://de.wikipedia.
 
 Die Autorin Susan Stryker beschrieb Habitus in ihrem Buch [„Transgender History“](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X):
 
-> Unser Habitus beinhaltet auch die zur Schau Stellung unserer sekundären Geschlechtsmerkmale, um anderen ein Gefühl dafür zu vermitteln, wer wir sind. Das drückt sich zum Beispiel aus, ob wir mit unseren Hüften schwingen, ob wir mit unseren Händen sprechen, ob wir uns im Fitnessstudio massieren lassen, ob wir unsere Haare wachsen lassen, ob wir Kleidung mit Ausschnitt tragen das unser Dekolleté betont, ob wir uns die Achseln rasieren oder einen drei-Tage-Bart stehen lassen und ob wir am Satzende mit steigender oder fallender Betonung sprechen. Oft haben sich diese Bewegungs- und Gestaltungsweisen so verinnerlicht, dass wir sie für selbstverständlich halten, obwohl sie -- da es alles Dinge sind, die wir durch Beobachtung und Übung gelernt haben -- besser als kulturell erworbene „zweite Natur“ verstanden werden können.
+> Unser Habitus beinhaltet auch die Zurschaustellung unserer sekundären Geschlechtsmerkmale, um anderen ein Gefühl dafür zu vermitteln, wer wir sind. Das drückt sich zum Beispiel darin aus, ob wir mit unseren Hüften schwingen, ob wir mit unseren Händen sprechen, ob wir uns im Fitnessstudio massieren lassen, ob wir unsere Haare wachsen lassen, ob wir Kleidung mit Ausschnitt tragen, das unser Dekolleté betont, ob wir uns die Achseln rasieren oder einen drei-Tage-Bart stehen lassen und ob wir am Satzende mit steigender oder fallender Betonung sprechen. Oft haben sich diese Bewegungs- und Gestaltungsweisen so verinnerlicht, dass wir sie für selbstverständlich halten, obwohl sie -- da es alles Dinge sind, die wir durch Beobachtung und Übung gelernt haben -- besser als kulturell erworbene „zweite Natur“ verstanden werden können.
 
-Dies sind alles kulturelle Faktoren, also Dinge, die sich sie Menschheit im Laufe der Zeit angeeignet hat. Auch wenn diese Dinge im Wesentlichen „erfunden“ sind, sind sie dennoch mit einer Geschlechtsidentität verbunden. Eine Person neigt dazu, sich mit den sozialen Aspekten ihres inneren Geschlechts unbewusst zu verbinden, ohne zu merken, dass sie dies tut. Wenn ihnen der Zugang zu diesen sozialen Aspekten verweigert wird, führt dies zu sozialem Unbehagen.
+Dies sind alles kulturelle Faktoren, also Dinge, die sich die Menschheit im Laufe der Zeit angeeignet hat. Auch wenn diese Dinge im wesentlichen „erfunden“ sind, sind sie dennoch mit einer Geschlechtsidentität verbunden. Eine Person neigt dazu, sich mit den sozialen Aspekten ihres inneren Geschlechts unbewusst zu verbinden, ohne zu merken, dass sie dies tut. Wenn ihnen der Zugang zu diesen sozialen Aspekten verweigert wird, führt dies zu sozialem Unbehagen.
 
 Die Experimente von John Money versuchten zu belegen, dass das Geschlecht ein rein soziales Konstrukt ist und dass jedes Kind in die eine oder andere Rolle „erzogen“ werden kann. Sein Experiment war ein massiver Fehlschlag (siehe Abschnitt [Biochemische Dysphorie](/de/biochemische-dysphorie)). Das Geschlecht (wieder im Sinne von Gender) ändert sich nicht, jeder Mensch hat mit 40 das gleiche innere Geschlecht wie mit 4. Was sich ändert, ist unser eigenes Verständnis unseres inneren Geschlechts, wenn wir als Individuen reifen.
 
@@ -114,14 +114,14 @@ Gender ist *nicht* die sexuelle Orientierung. Wir beschreiben die sexuelle Orien
 
 ## Was bedeutet es nicht-Binär zu sein?
 
-Nicht-Binär kann im Grunde als fehlende ausschließliche Affinität (Neigung) zu männlich oder weiblich vereinfacht werden. 
-- Dies kann ein Mangel an Affinität zu einer der beiden Identitäten (Agender),
+Nicht-Binär (auch "non-binär") kann im Grunde als fehlende ausschliessliche Affinität (Neigung) zu männlich oder weiblich vereinfacht werden, bspw:
+- ein Mangel an Affinität zu einer der beiden Identitäten (Agender),
 - eine totale Affinität zu beiden (bi-gender),
 - eine ausgewogene Affinität zu beiden (androgyn),
 - eine Affinität, die sich von Tag zu Tag ändert (genderfluid), 
 - eine partielle Affinität (demigender) 
 - oder gar eine Affinität zum gesamten Geschlechterspektrum auf einmal (pangender).
 
-Es könnte eine Affinität zu einigen Aspekten eines Geschlechts sein, aber nicht zu anderen. Zum Beispiel könnte ein Demigirl jemand sein, der biologisch weiblich ist aber nur teilweise eine Verbindung zur Weiblichkeit und Feminität hat. Alternativ könnte es eine biologisch männliche Person sein, die eine HRT zur Linderung von körperlicher Dysphorie durchführt, einen weiblichen Phänotyp hat, sich jedoch nicht mit den sozialen Aspekten des Frau-Seins verbunden fühlt.
+Es könnte eine Affinität zu einigen Aspekten eines Geschlechts sein, aber nicht zu anderen. Zum Beispiel könnte ein Demigirl jemand sein, der bei der Geburt das weibliche Geschlecht zugewiesen wurde aber die nur teilweise eine Verbindung zur Weiblichkeit und Feminität hat. Alternativ könnte es ein Mensch sein, dem bei der Geburt das männliche Geschlecht zugewiesen wurde, die eine HRT (Hormone-Replacement-Therapy / Hormonsubstitutionstherapie) zur Linderung von körperlicher Dysphorie durchführt, einen weiblichen Phänotyp hat, sich jedoch nicht mit den sozialen Aspekten des Frau-Seins verbunden fühlt.
 
-Generell wird dieser Aufsatz die Begriffe männlich/weiblich im Sinne von binären Identitäten verwenden. Dies dient der Einfachheit des Schreibens und möchte nicht-binäre Identitäten nicht ausgrenzen. Bitte beachten Sie, dass die Tiefe der geschlechtlichen Erfahrung und Ausdrucksweise weitaus komplizierter ist als diese einfache Aufschlüsselung.
+Generell wird dieser Aufsatz die Begriffe männlich/weiblich im Sinne von binären Identitäten verwenden. Dies dient der Einfachheit des Schreibens und möchte nicht-binäre Identitäten nicht ausgrenzen. Bitte beachte, dass die Tiefe der geschlechtlichen Erfahrung und Ausdrucksweise weitaus komplizierter ist als diese einfache Aufschlüsselung.
